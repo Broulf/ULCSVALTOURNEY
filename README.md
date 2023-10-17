@@ -18,5 +18,6 @@
 
 # CS2 OVERlAY
 1. Download the CS2 Overlay executable: https://github.com/drweissbrot/cs-hud/releases/latest/download/cs-hud-win.exe and put it into the `/CS-OVERLAY` folder.
-2. Put the `gamestate_integration_drweissbrot_hud.cfg` in the `/cfg` folder of the observers CS2 install.
+2. Put the `gamestate_integration_drweissbrot_hud.cfg` and the `overly.cfg` in the `/cfg` folder of the observers CS2 install.
 3. Run the `cs-hud-win.exe` file and make sure that OBS is capturing the overlay in a browser source (`http://127.0.0.1:31982/hud?transparent`).
+4. Observer will then execute the `overlay.cfg` file in-game.
