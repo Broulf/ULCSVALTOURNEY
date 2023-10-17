@@ -1,0 +1,64 @@
+{
+	"parent": "fennec",
+	"options": {
+		"css.terrorists-fill-rgb": {
+			"value": "#840000"
+		},
+		"css.terrorists-text-rgb": {
+			"value": "#ffffff"
+		},
+		"css.counter-terrorists-fill-rgb": {
+			"value": "#008484"
+		},
+		"css.counter-terrorists-text-rgb": {
+			"value": "#ffffff"
+		},
+		"cvars.mp_maxrounds": {
+			"value": 24
+		},
+		"teams.playerNameOverrides": {
+			"value": "76561198227420340 Euphoria\n76561198205641867 FortunateTurtle\n76561198352810979 TeeGrumpee\n76561198138343880 Broulfy\n76561198150495489 Cheech\n\n76561198087368312 Joe\n76561198417437416 Hadezz"
+		},
+		"teams.teamNameOverrides": {
+			"value": "76561198227420340 76561198205641867 76561198352810979 76561198138343880 76561198150495489 CS RED\n76561198417437416 VAL RED"
+		},
+		"series.name.center": {
+			"value": "Ragin' Cajuns Esports"
+		},
+		"series.maps.1.name": {},
+		"series.maps.1.pickTeam": {
+			"value": "VAL RED"
+		},
+		"series.maps.1.pickTeamScore": {
+			"value": 11
+		},
+		"series.maps.1.enemyTeamScore": {
+			"value": 13
+		},
+		"series.maps.2.name": {
+			"value": "de_mirage"
+		},
+		"series.maps.2.pickTeam": {
+			"value": "CS RED"
+		},
+		"preferences.topBar.clock.tenSecondsRedInRoundRestartDelay": {
+			"value": true
+		},
+		"preferences.seriesGraph.showMapForOnlyMatch": {
+			"value": true
+		},
+		"css.counter-terrorists-border-rgb": {
+			"value": "#1f1f1f"
+		},
+		"css.base-scale-factor": {
+			"value": "10px"
+		},
+		"series.maps.3.name": {},
+		"series.maps.3.isDecider": {
+			"value": true
+		},
+		"preferences.maximumBadKdRatio": {
+			"value": 0.5
+		}
+	}
+}
