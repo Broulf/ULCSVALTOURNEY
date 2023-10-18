@@ -10,7 +10,7 @@
 
 # CS2 Server Installation
 1. Use the `CS2-INSTALL.bat` file to install the CS2 server.
-2. Use the `CS2-UPDATE.bat` file to update teh CS2 server.
+2. Use the `CS2-UPDATE.bat` file to update the CS2 server.
 3. Use the `CS2-SERVER.bat` file to run the CS2 server (Make sure to edit it for the correct map).
 
 - *Once the server is setup the observer should join the GOTV or the Spectators team and run the* `cs2-overlay.exe`
