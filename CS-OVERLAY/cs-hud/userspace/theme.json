@@ -8,7 +8,7 @@
 			"value": "#ffffff"
 		},
 		"css.counter-terrorists-fill-rgb": {
-			"value": "#0BA0A0"
+			"value": "#000000"
 		},
 		"css.counter-terrorists-text-rgb": {
 			"value": "#ffffff"
@@ -17,23 +17,25 @@
 			"value": 24
 		},
 		"teams.playerNameOverrides": {
-			"value": "76561198227420340 Euphoria\n76561198205641867 FortunateTurtle\n76561198352810979 TeeGrumpee\n76561198138343880 Broulfy\n76561198150495489 Cheech\n\n76561198087368312 Joe\n76561198417437416 Hadezz"
+			"value": "76561198227420340 Euphoria\n76561198205641867 FortunateTurtle\n76561198352810979 Teegrumpee\n76561198138343880 Broulfy\n76561198150495489 YungCheech\n\n76561198087368312 Joe\n76561198417437416 Hadezz"
 		},
 		"teams.teamNameOverrides": {
-			"value": "76561198227420340 76561198205641867 76561198352810979 76561198138343880 76561198150495489 CS RED\n76561198417437416 VAL RED"
+			"value": "76561198138343880 76561198205641867 76561198352810979 76561198227420340 76561198150495489 CS RED\n76561198160951028 76561198417437416 76561198119306831 76561198278744248 VAL RED"
 		},
 		"series.name.center": {
 			"value": "Ragin' Cajuns Esports"
 		},
-		"series.maps.1.name": {},
+		"series.maps.1.name": {
+			"value": "de_cache"
+		},
 		"series.maps.1.pickTeam": {
-			"value": "VAL RED"
+			"value": "CS RED"
 		},
 		"series.maps.1.pickTeamScore": {
-			"value": 11
+			"value": 13
 		},
 		"series.maps.1.enemyTeamScore": {
-			"value": 13
+			"value": 11
 		},
 		"series.maps.2.name": {
 			"value": "de_mirage"
@@ -47,18 +49,27 @@
 		"preferences.seriesGraph.showMapForOnlyMatch": {
 			"value": true
 		},
-		"css.counter-terrorists-border-rgb": {
-			"value": "#1f1f1f"
-		},
+		"css.counter-terrorists-border-rgb": {},
 		"css.base-scale-factor": {
 			"value": "10px"
 		},
-		"series.maps.3.name": {},
+		"series.maps.3.name": {
+			"value": "de_inferno"
+		},
 		"series.maps.3.isDecider": {
 			"value": true
 		},
 		"preferences.maximumBadKdRatio": {
 			"value": 0.5
+		},
+		"series.name.left": {
+			"value": "University of Louisiana at Lafayette"
+		},
+		"series.name.right": {
+			"value": "Lafayette, LA"
+		},
+		"series.maps.3.pickTeam": {
+			"value": "REMAINING"
 		}
 	}
 }
