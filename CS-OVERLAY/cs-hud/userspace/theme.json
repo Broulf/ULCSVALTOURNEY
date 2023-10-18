@@ -2,13 +2,13 @@
 	"parent": "fennec",
 	"options": {
 		"css.terrorists-fill-rgb": {
-			"value": "#840000"
+			"value": "#a00b0b"
 		},
 		"css.terrorists-text-rgb": {
 			"value": "#ffffff"
 		},
 		"css.counter-terrorists-fill-rgb": {
-			"value": "#008484"
+			"value": "#0BA0A0"
 		},
 		"css.counter-terrorists-text-rgb": {
 			"value": "#ffffff"
