@@ -5,7 +5,7 @@
 1. Unzip the file and send the admin token to *`Admin`*
 2. Run the TS3 server.
 3. The admin will create two channels: `CS RED` and `VAL RED`
-3. Have clients connect to their appropriate channels.
+3. Have clients connect to their appropriate channels `https://drive.google.com/file/d/1dJPCfb1yeRSQdGkVD_3IFtG842GI5jGT/view?usp=sharing`.
 4. Make sure all clients are able to hear and speak to each other, and PTT binds are properly setup, if needed.
 
 # CS2 Server Installation
