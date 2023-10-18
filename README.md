@@ -16,7 +16,7 @@
 - *Once the server is setup the observer should join the GOTV or the Spectators team and run the* `cs2-overlay.exe`
 - *This will link the overlay to OBS and the caster can spectate the game as intended.*
 
-# CS2 OVERlAY
+# CS2 OVERLAY
 1. Download the CS2 Overlay executable: https://github.com/drweissbrot/cs-hud/releases/latest/download/cs-hud-win.exe and put it into the `/CS-OVERLAY` folder.
 2. Put the `gamestate_integration_drweissbrot_hud.cfg` and the `overly.cfg` in the `/cfg` folder of the observers CS2 install.
 3. Run the `cs-hud-win.exe` file and make sure that OBS is capturing the overlay in a browser source (`http://127.0.0.1:31982/hud?transparent`).
